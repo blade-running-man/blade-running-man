@@ -1,10 +1,24 @@
-### Oleksandr Slukovskyi
+## Oleksandr Slukovskyi
 
-[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:oleksandr.slukovskyi@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
-![Twitter Follow](https://img.shields.io/twitter/follow/blade_running_m?style=social)
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/oleksandr-s-05237b76/)
+I'm a forward-deployed engineer and Technical Lead at [Cyclomedia](https://www.cyclomedia.com), where we build a platform for street-level imagery and LiDAR.
 
-# Short Bio
-I am a highly experienced Senior Software Engineer with over 8 years of expertise in building web and mobile applications using technologies such as React, React Native, Vue, and Node.js. I have a strong background in delivering projects related to business corporate networks, event management systems, travel mobile apps, sports applications, and data visualization systems. My in-depth knowledge of web application design and development, combined with my skills as an architect and mentor, make me a valuable asset to any team. I have a proven ability to develop innovative and effective solutions, and I communicate effectively with both technical and non-technical stakeholders.
+At home I write firmware for my own devices: ventilation unit, gas boiler, LED clock.
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=blade-running-man&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[LinkedIn](https://www.linkedin.com/in/oleksandr-slukovskyi/) · [Email](mailto:oleksandr.slukovskyi@gmail.com) · [X](https://x.com/blade_running_m) · [Sponsor](https://github.com/sponsors/blade-running-man)
+
+### Projects
+
+| Project | What it is | Stack |
+|---|---|---|
+| [SVITRIX](https://github.com/svitrix/svitrix-firmware) | Firmware for the Ulanzi TC001 pixel clock and DIY LED matrices: Home Assistant, MQTT and HTTP API. [Docs](https://svitrix.github.io/svitrix-firmware/). Rust rewrite in progress | C++ · ESP32 |
+| [ComfoAir Q firmware](https://github.com/blade-running-man/zehnder-comfoair-q-firmware) | Local controller for Zehnder ComfoAir Q ventilation over its CAN bus: Home Assistant, REST API, web UI. Also as an [ESPHome component](https://github.com/blade-running-man/zehnder-comfoair-q-esphome) | ESP-IDF · C++ |
+| [OpenTherm thermostat](https://github.com/blade-running-man/opentherm-thermostat-firmware) | ESP32 as the OpenTherm master for a gas boiler: standalone web UI, optional Home Assistant. [Docs](https://blade-running-man.github.io/opentherm-thermostat-firmware/) | ESP-IDF · C · Preact |
+| [GreenHouse](https://github.com/svitrix/greenhouse) | Zigbee greenhouse automation: two ESP32-C6 firmwares and a React admin app | ESP32-C6 · React |
+
+### Stack
+
+- **Languages** — TypeScript, JavaScript, C, C++, Rust
+- **Web & mobile** — React, React Native, Node.js, Vue, Preact
+- **3D & maps** — WebGL, shaders, GeoJSON, point clouds
+- **Embedded** — ESP32, ESP-IDF, ESPHome, PlatformIO; CAN, OpenTherm, Zigbee, MQTT, Home Assistant
+- **Practice** — TDD, CI, Claude Code agent workflows
